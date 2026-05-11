@@ -1,5 +1,5 @@
 import React from 'react';
-import { Mail, Github, Linkedin, Cpu, Code2, Database, GitBranch, Globe } from 'lucide-react';
+import { Mail, GitHub, Linkedin, Cpu, Code2, Database, GitBranch, Globe } from 'lucide-react';
 
 export default function Portfolio() {
   return (
